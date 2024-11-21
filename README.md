@@ -1,7 +1,7 @@
 # RELATIONAL DATABASE SERVICE CREATION IN AMAZON
 
 ### REG NO:212222100036
-### NAME: LOKESH RAHUL V V
+### NAME: PRAVEEN B V
 
 ## AIM
   To Relational Database Service Creation in Amazon.
