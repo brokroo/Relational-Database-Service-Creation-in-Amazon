@@ -1,7 +1,7 @@
 # RELATIONAL DATABASE SERVICE CREATION IN AMAZON
 
-### REG NO:212222100036
-### NAME: PRAVEEN B V
+### REG NO:212223230191
+### NAME: SANJITH.R
 
 ## AIM
   To Relational Database Service Creation in Amazon.
